@@ -2,7 +2,7 @@
 <suite name="Sytner" parallel="false">
 
 	<listeners>
-		<listener class-name="commons.MethodListener" />
+		<listener class-name="reportConfig.ReportNGListener" />
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
@@ -11,7 +11,7 @@
 	<test name="Run on CHROME UI">
 		<parameter name="browser" value="chrome_ui" />
 		<classes>
-			<class name="com.sytner.homepage.NewTest" />
+			<class name="com.sytner.MenuItems.HomePage_001_MenuItems" />
 		</classes>
 	</test> <!-- Test -->
 

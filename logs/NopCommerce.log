@@ -2,3 +2,40 @@
 [INFO ] [2021-02-17 00:04:49,037] ---------- QUIT BROWSER SUCCESS ----------
 [INFO ] [2021-02-17 00:05:25,682] OS name = windows 10
 [INFO ] [2021-02-17 00:05:26,503] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-02-17 23:41:15,923] TC 01 
+[INFO ] [2021-02-17 23:41:16,036] OS name = windows 10
+[INFO ] [2021-02-17 23:41:16,874] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-02-19 00:24:47,432] MenuItems [AboutUs] - Step 01: Accept Privacy and Cookies
+[INFO ] [2021-02-19 00:24:48,086] MenuItems [AboutUs] - Step 02: Click to 'About Us' Link
+[INFO ] [2021-02-19 00:24:52,042] MenuItems [AboutUs] - Step 03: Verify 'Current Page Title' is displayed with value 'About Us | Sytner Group'
+[INFO ] [2021-02-19 00:24:52,053]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:24:52,054] MenuItems [AboutUs] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/about-us/'
+[INFO ] [2021-02-19 00:24:52,058]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:24:52,161] OS name = windows 10
+[INFO ] [2021-02-19 00:24:52,926] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-02-19 00:54:07,701] MenuItems [AboutUs] - Step 01: Accept Privacy and Cookies
+[INFO ] [2021-02-19 00:54:08,402] MenuItems [AboutUs] - Step 02: Click to 'About Us' Link
+[INFO ] [2021-02-19 00:54:12,714] MenuItems [AboutUs] - Step 03: Verify 'Current Page Title' is displayed with value 'About Us | Sytner Group'
+[INFO ] [2021-02-19 00:54:12,736]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:12,736] MenuItems [AboutUs] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/about-us/'
+[INFO ] [2021-02-19 00:54:12,745]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:12,840] MenuItems [News] - Step 01: Back to 'Home Page'
+[INFO ] [2021-02-19 00:54:13,596] MenuItems [News] - Step 02: Click to 'News' Link
+[INFO ] [2021-02-19 00:54:17,143] MenuItems [News] - Step 03: Verify 'Current Page Title' is displayed with value 'Latest News | About Us | Sytner Group'
+[INFO ] [2021-02-19 00:54:17,146]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:17,146] MenuItems [News] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/news/'
+[INFO ] [2021-02-19 00:54:17,149]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:17,153] MenuItems [Customer Service] - Step 01: Back to 'Home Page'
+[INFO ] [2021-02-19 00:54:18,261] MenuItems [Customer Service] - Step 02: Click to 'Customer Service' Link
+[INFO ] [2021-02-19 00:54:20,424] MenuItems [Customer Service] - Step 03: Verify 'Current Page Title' is displayed with value 'Customer Service | Sytner Group'
+[INFO ] [2021-02-19 00:54:20,428]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:20,428] MenuItems [Customer Service] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/customer-service/'
+[INFO ] [2021-02-19 00:54:20,431]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:20,434] MenuItems [News] - Step 01: Back to 'Home Page'
+[INFO ] [2021-02-19 00:54:21,482] MenuItems [Finance] - Step 01: Click to 'Finance' Link
+[INFO ] [2021-02-19 00:54:23,441] MenuItems [Finance] - Step 02: Verify 'Current Page Title' is displayed with value 'Finance | Across the U.K | Sytner Group'
+[INFO ] [2021-02-19 00:54:23,444]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:23,445] MenuItems [Finance] - Step 03: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/finance/'
+[INFO ] [2021-02-19 00:54:23,449]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-02-19 00:54:23,451] OS name = windows 10
+[INFO ] [2021-02-19 00:54:24,280] ---------- QUIT BROWSER SUCCESS ----------
