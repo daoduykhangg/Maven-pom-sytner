@@ -659,9 +659,13 @@ public class AbstractPage {
 	}
 
 	/* Commons */
-	public void openPageInMenuByTitle(WebDriver driver, String titleValue) {
+	public void openPageInMenuHeaderByTitle(WebDriver driver, String titleValue) {
 		waitForElementClickable(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_BY_TITLE, titleValue);
 		clickToElement(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_BY_TITLE, titleValue);
+	}
+	public void openPageInPrimaryMenuByTitle(WebDriver driver, String titleValue) {
+		waitForElementClickable(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_2_BY_TITLE, titleValue);
+		clickToElement(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_2_BY_TITLE, titleValue);
 	}
 	
 	public void acceptPrivacyAndCookies(WebDriver driver, String titleValue) {
