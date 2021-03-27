@@ -663,16 +663,17 @@ public class AbstractPage {
 		waitForElementClickable(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_BY_TITLE, titleValue);
 		clickToElement(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_BY_TITLE, titleValue);
 	}
+
 	public void openPageInPrimaryMenuByTitle(WebDriver driver, String titleValue) {
 		waitForElementClickable(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_2_BY_TITLE, titleValue);
 		clickToElement(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_2_BY_TITLE, titleValue);
 	}
-	
+
 	public void acceptPrivacyAndCookies(WebDriver driver, String titleValue) {
 		waitForElementClickable(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_BY_TITLE, titleValue);
 		clickToElement(driver, AbstractPageUI.DYNAMIC_PAGE_IN_MENU_BY_TITLE, titleValue);
 	}
-	
+
 	private WebElement element;
 	private JavascriptExecutor jsExecutor;
 	private WebDriverWait explicitWait;

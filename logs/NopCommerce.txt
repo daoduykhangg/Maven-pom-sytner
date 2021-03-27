@@ -1,74 +1,74 @@
-[INFO ] [2021-03-09 22:12:32,895] MenuItems [AboutUs] - Step 01: Accept Privacy and Cookies
-[INFO ] [2021-03-09 22:12:33,552] MenuItems [AboutUs] - Step 02: Click to 'About Us' Link
-[INFO ] [2021-03-09 22:12:38,135] MenuItems [AboutUs] - Step 03: Verify 'Current Page Title' is displayed with value 'About Us | Sytner Group'
-[INFO ] [2021-03-09 22:12:38,150]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:38,150] MenuItems [AboutUs] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/about-us/'
-[INFO ] [2021-03-09 22:12:38,157]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:38,260] MenuItems [News] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:12:39,027] MenuItems [News] - Step 02: Click to 'News' Link
-[INFO ] [2021-03-09 22:12:42,356] MenuItems [News] - Step 03: Verify 'Current Page Title' is displayed with value 'Latest News | About Us | Sytner Group'
-[INFO ] [2021-03-09 22:12:42,360]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:42,360] MenuItems [News] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/news/'
-[INFO ] [2021-03-09 22:12:42,363]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:42,366] MenuItems [Customer Service] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:12:43,466] MenuItems [Customer Service] - Step 02: Click to 'Customer Service' Link
-[INFO ] [2021-03-09 22:12:45,234] MenuItems [Customer Service] - Step 03: Verify 'Current Page Title' is displayed with value 'Customer Service | Sytner Group'
-[INFO ] [2021-03-09 22:12:45,237]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:45,237] MenuItems [Customer Service] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/customer-service/'
-[INFO ] [2021-03-09 22:12:45,240]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:45,243] MenuItems [Finance] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:12:46,313] MenuItems [Finance] - Step 02: Click to 'Finance' Link
-[INFO ] [2021-03-09 22:12:48,258] MenuItems [Finance] - Step 03: Verify 'Current Page Title' is displayed with value 'Finance | Across the U.K | Sytner Group'
-[INFO ] [2021-03-09 22:12:48,261]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:48,262] MenuItems [Finance] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/finance/'
-[INFO ] [2021-03-09 22:12:48,264]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:48,267] MenuItems [Car Search] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:12:49,375] MenuItems [Car Search] - Step 02: Click to 'Car Search' Link
-[INFO ] [2021-03-09 22:12:58,403] MenuItems [Car Search] - Step 03: Verify 'Current Page Title' is displayed with value 'Sytner Vehicle Search'
-[INFO ] [2021-03-09 22:12:58,408]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:58,408] MenuItems [Car Search] - Step 04: Verify 'Current Page URL' is displayed with value 'https://supersearch.sytner.co.uk/#/'
-[INFO ] [2021-03-09 22:12:58,412]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:12:58,416] MenuItems [New Cars] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:12:59,216] MenuItems [New Cars] - Step 02: Click to 'New Cars' Link
-[INFO ] [2021-03-09 22:13:00,903] MenuItems [New Cars] - Step 03: Verify 'Current Page Title' is displayed with value'New Cars | Sytner Group'
-[INFO ] [2021-03-09 22:13:00,908]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:00,908] MenuItems [New Cars] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/new-cars/'
-[INFO ] [2021-03-09 22:13:00,911]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:00,913] MenuItems [Electric Cars] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:13:01,993] MenuItems [Electric Cars] - Step 02: Click to 'Electric Cars' Link
-[INFO ] [2021-03-09 22:13:04,096] MenuItems [Electric Cars] - Step 03: Verify 'Current Page Title' is displayed with value'Hybrid and Electric Vehicles | Sytner Group'
-[INFO ] [2021-03-09 22:13:04,100]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:04,100] MenuItems [Electric Cars] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/electric-vehicles/'
-[INFO ] [2021-03-09 22:13:04,103]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:04,109] MenuItems [Servicing & Parts] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:13:05,336] MenuItems [Servicing & Parts] - Step 02: Click to 'Servicing & Parts' Link
-[INFO ] [2021-03-09 22:13:07,128] MenuItems [Servicing & Parts] - Step 03: Verify 'Current Page Title' is displayed with value'Your Workshop Visit | Across the U.K | Sytner Group'
-[INFO ] [2021-03-09 22:13:07,131]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:07,131] MenuItems [Servicing & Parts] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/car-maintenance/your-workshop-visit/'
-[INFO ] [2021-03-09 22:13:07,135]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:07,138] MenuItems [Offers] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:13:08,213] MenuItems [Offers] - Step 02: Click to 'Offers' Link
-[INFO ] [2021-03-09 22:13:10,041] MenuItems [Offers] - Step 03: Verify 'Current Page Title' is displayed with value'Special Car Offers & Promotions | Sytner'
-[INFO ] [2021-03-09 22:13:10,044]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:10,044] MenuItems [Offers] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/promotions/'
-[INFO ] [2021-03-09 22:13:10,047]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:10,050] MenuItems [Business Users] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:13:11,149] MenuItems [Business Users] - Step 02: Click to 'Business Users' Link
-[INFO ] [2021-03-09 22:13:12,957] MenuItems [Business Users] - Step 03: Verify 'Current Page Title' is displayed with value'Business & Fleet Cars | Sytner Group'
-[INFO ] [2021-03-09 22:13:12,963]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:12,963] MenuItems [Business Users] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/business-users/'
-[INFO ] [2021-03-09 22:13:12,967]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:12,970] MenuItems [Sell your car] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:13:14,083] MenuItems [Sell your car] - Step 02: Click to 'Sell your car' Link
-[INFO ] [2021-03-09 22:13:15,788] MenuItems [Sell your car] - Step 03: Verify 'Current Page Title' is displayed with value'Sell Your Car | Sytner Group'
-[INFO ] [2021-03-09 22:13:15,791]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:15,791] MenuItems [Sell your car] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/sell-your-car/'
-[INFO ] [2021-03-09 22:13:15,795]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:15,797] MenuItems [Our Locations] - Step 01: Back to 'Home Page'
-[INFO ] [2021-03-09 22:13:17,039] MenuItems [Our Locations] - Step 02: Click to 'Our Locations' Link
-[INFO ] [2021-03-09 22:13:19,030] MenuItems [Our Locations] - Step 03: Verify 'Current Page Title' is displayed with value'Our Locations | Sytner Group'
-[INFO ] [2021-03-09 22:13:19,034]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:19,034] MenuItems [Our Locations] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/dealer-locator/'
-[INFO ] [2021-03-09 22:13:19,036]  -------------------------- PASSED -------------------------- 
-[INFO ] [2021-03-09 22:13:19,038] OS name = windows 10
-[INFO ] [2021-03-09 22:13:19,852] ---------- QUIT BROWSER SUCCESS ----------
+[INFO ] [2021-03-20 20:57:50,375] MenuItems [AboutUs] - Step 01: Accept Privacy and Cookies
+[INFO ] [2021-03-20 20:57:50,956] MenuItems [AboutUs] - Step 02: Click to 'About Us' Link
+[INFO ] [2021-03-20 20:57:52,826] MenuItems [AboutUs] - Step 03: Verify 'Current Page Title' is displayed with value 'About Us | Sytner Groupddd'
+[INFO ] [2021-03-20 20:57:52,831]  -------------------------- FAILED -------------------------- 
+[INFO ] [2021-03-20 20:57:52,831] MenuItems [AboutUs] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/about-us/'
+[INFO ] [2021-03-20 20:57:52,833]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:57:53,520] MenuItems [News] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:57:54,053] MenuItems [News] - Step 02: Click to 'News' Link
+[INFO ] [2021-03-20 20:57:56,833] MenuItems [News] - Step 03: Verify 'Current Page Title' is displayed with value 'Latest News | About Us | Sytner Group'
+[INFO ] [2021-03-20 20:57:56,836]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:57:56,836] MenuItems [News] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/news/'
+[INFO ] [2021-03-20 20:57:56,838]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:57:56,840] MenuItems [Customer Service] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:57:57,469] MenuItems [Customer Service] - Step 02: Click to 'Customer Service' Link
+[INFO ] [2021-03-20 20:57:59,062] MenuItems [Customer Service] - Step 03: Verify 'Current Page Title' is displayed with value 'Customer Service | Sytner Group'
+[INFO ] [2021-03-20 20:57:59,064]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:57:59,064] MenuItems [Customer Service] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/customer-service/'
+[INFO ] [2021-03-20 20:57:59,065]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:57:59,067] MenuItems [Finance] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:57:59,839] MenuItems [Finance] - Step 02: Click to 'Finance' Link
+[INFO ] [2021-03-20 20:58:01,546] MenuItems [Finance] - Step 03: Verify 'Current Page Title' is displayed with value 'Finance | Across the U.K | Sytner Group'
+[INFO ] [2021-03-20 20:58:01,549]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:01,549] MenuItems [Finance] - Step 04: Verify 'Current Page URL' is displayed with value 'https://www.sytner.co.uk/finance/'
+[INFO ] [2021-03-20 20:58:01,551]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:01,552] MenuItems [Car Search] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:02,210] MenuItems [Car Search] - Step 02: Click to 'Car Search' Link
+[INFO ] [2021-03-20 20:58:06,160] MenuItems [Car Search] - Step 03: Verify 'Current Page Title' is displayed with value 'Sytner Vehicle Search'
+[INFO ] [2021-03-20 20:58:06,162]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:06,162] MenuItems [Car Search] - Step 04: Verify 'Current Page URL' is displayed with value 'https://supersearch.sytner.co.uk/#/'
+[INFO ] [2021-03-20 20:58:06,163]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:06,165] MenuItems [New Cars] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:06,655] MenuItems [New Cars] - Step 02: Click to 'New Cars' Link
+[INFO ] [2021-03-20 20:58:08,230] MenuItems [New Cars] - Step 03: Verify 'Current Page Title' is displayed with value'New Cars | Sytner Group'
+[INFO ] [2021-03-20 20:58:08,232]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:08,232] MenuItems [New Cars] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/new-cars/'
+[INFO ] [2021-03-20 20:58:08,234]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:08,235] MenuItems [Electric Cars] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:09,004] MenuItems [Electric Cars] - Step 02: Click to 'Electric Cars' Link
+[INFO ] [2021-03-20 20:58:10,573] MenuItems [Electric Cars] - Step 03: Verify 'Current Page Title' is displayed with value'Hybrid and Electric Vehicles | Sytner Group'
+[INFO ] [2021-03-20 20:58:10,580]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:10,580] MenuItems [Electric Cars] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/electric-vehicles/'
+[INFO ] [2021-03-20 20:58:10,581]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:10,583] MenuItems [Servicing & Parts] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:11,515] MenuItems [Servicing & Parts] - Step 02: Click to 'Servicing & Parts' Link
+[INFO ] [2021-03-20 20:58:12,621] MenuItems [Servicing & Parts] - Step 03: Verify 'Current Page Title' is displayed with value'Your Workshop Visit | Across the U.K | Sytner Group'
+[INFO ] [2021-03-20 20:58:12,622]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:12,622] MenuItems [Servicing & Parts] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/car-maintenance/your-workshop-visit/'
+[INFO ] [2021-03-20 20:58:12,624]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:12,626] MenuItems [Offers] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:13,379] MenuItems [Offers] - Step 02: Click to 'Offers' Link
+[INFO ] [2021-03-20 20:58:14,935] MenuItems [Offers] - Step 03: Verify 'Current Page Title' is displayed with value'Special Car Offers & Promotions | Sytner'
+[INFO ] [2021-03-20 20:58:14,937]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:14,937] MenuItems [Offers] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/promotions/'
+[INFO ] [2021-03-20 20:58:14,938]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:14,940] MenuItems [Business Users] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:15,709] MenuItems [Business Users] - Step 02: Click to 'Business Users' Link
+[INFO ] [2021-03-20 20:58:17,750] MenuItems [Business Users] - Step 03: Verify 'Current Page Title' is displayed with value'Business & Fleet Cars | Sytner Group'
+[INFO ] [2021-03-20 20:58:17,752]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:17,752] MenuItems [Business Users] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/business-users/'
+[INFO ] [2021-03-20 20:58:17,753]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:17,755] MenuItems [Sell your car] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:18,571] MenuItems [Sell your car] - Step 02: Click to 'Sell your car' Link
+[INFO ] [2021-03-20 20:58:20,160] MenuItems [Sell your car] - Step 03: Verify 'Current Page Title' is displayed with value'Sell Your Car | Sytner Group'
+[INFO ] [2021-03-20 20:58:20,162]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:20,162] MenuItems [Sell your car] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/sell-your-car/'
+[INFO ] [2021-03-20 20:58:20,164]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:20,165] MenuItems [Our Locations] - Step 01: Back to 'Home Page'
+[INFO ] [2021-03-20 20:58:21,081] MenuItems [Our Locations] - Step 02: Click to 'Our Locations' Link
+[INFO ] [2021-03-20 20:58:22,629] MenuItems [Our Locations] - Step 03: Verify 'Current Page Title' is displayed with value'Our Locations | Sytner Group'
+[INFO ] [2021-03-20 20:58:22,630]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:22,630] MenuItems [Our Locations] - Step 04: Verify 'Current Page URL' is displayed with value'https://www.sytner.co.uk/dealer-locator/'
+[INFO ] [2021-03-20 20:58:22,632]  -------------------------- PASSED -------------------------- 
+[INFO ] [2021-03-20 20:58:22,633] OS name = windows 10
+[INFO ] [2021-03-20 20:58:23,317] ---------- QUIT BROWSER SUCCESS ----------

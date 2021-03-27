@@ -277,6 +277,7 @@ public class HomePage_001_MenuItems extends AbstractTest {
 	BusinessUsersPagePObject businessUsersPage;
 	SellYourCarPageObject sellYourCarPage;
 	OurLocationsPageObject ourLocationsPage;
+	
 	String aboutUsPageTitle, aboutUsPageURL, newsPageTitle, newsPageURL, customerServicePageTitle, customerServicePageURL;
 	String FinancePageTitle, FinancePageURL, CarSearchPageTitle, CarSearchPageURL, NewCarsPageTitle, NewCarsPageURL;
 	String eletricCarsPageTitle, eletricCarsPageURL, servicingAndPartsPageTitle, servicingAndPartsPageURL;
